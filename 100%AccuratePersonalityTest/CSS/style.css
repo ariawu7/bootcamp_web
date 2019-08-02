@@ -1,0 +1,33 @@
+html {
+  font-family: 'Quicksand', sans-serif;
+  color: black;
+}
+body{
+  padding: 0px;
+  margin: 0px;
+}
+
+a:link {
+  color: black;
+  text-decoration: none;
+}
+
+a:hover {
+  color: pink;
+  text-decoration: none;
+}
+
+a:visited {
+  color: black;
+  text-decoration: none;
+}
+
+p {
+  font-size: 40px;
+  margin: 150px 50px;
+}
+
+.Choice {
+  font-size: 30px;
+  position: relative;
+}
